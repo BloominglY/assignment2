@@ -1,0 +1,42 @@
+.para1{
+    text-align: center;
+    margin-left: 62px;
+}
+.para2{
+    text-align: center;
+    margin-left: 263px;
+    font-size: 30px;
+}
+.para3{
+    text-align: center;
+    margin-left: 243px;
+    font-size: 30px;
+    color: grey;
+}
+.para4{
+    text-align: center;
+    margin-left: 583px;
+    direction: rtl;
+}
+.para5{
+    text-align: center;
+    margin-left: 585px;
+    direction: rtl;
+}
+.para6{
+    text-align: center;
+    margin-left: 285px;
+}
+.para7{
+    text-align: left;
+    margin-left: 255px;
+    font-size: 30px;
+}
+.para8{
+    text-align: left;
+    margin-left: 255px;
+}
+.para9{
+    width: 200px;
+  height: auto;
+}
